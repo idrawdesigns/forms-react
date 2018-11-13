@@ -1,0 +1,28 @@
+nav {
+    text-transform: uppercase;
+
+
+}
+
+a {
+    padding: 0 20px 0px 0px;
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: rgba(122, 48, 108, 1);
+}
+
+a.active {
+    padding: 0 20px 5px 0px;
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: rgba(122, 48, 108, 1);
+    border-bottom: 2px solid rgba(12, 27, 51, 1);
+}
+
+a:hover {
+    color: rgb(214, 93, 192);
+
+
+}
